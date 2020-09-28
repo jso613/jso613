@@ -5,6 +5,7 @@
    [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-round&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jamie-seungeun-o-7974b0197/)](https://www.linkedin.com/in/jamie-seungeun-o-7974b0197/)
    [![Naverblog Badge](https://img.shields.io/badge/-Blog-00D564?style=flat-round&logo=LINE&logoColor=white&link=https://blog.naver.com/babybear46)](https://blog.naver.com/babybear46)  
 	
+	
 #### 🌱 learning
 - Android, iOS, Flutter 
 - Cloud services
