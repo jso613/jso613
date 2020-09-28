@@ -5,6 +5,6 @@
 
 
 #### 🌱 I’m currently learning
-- Android/ios
-- Cloud Service
-- Database/Big Data
+- Android, iOS, Flutter 
+- Cloud services
+- Big data, Data science
